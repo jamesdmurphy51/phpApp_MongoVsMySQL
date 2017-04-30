@@ -1,0 +1,30 @@
+header{
+    margin-bottom: 20px
+}
+
+#login{
+    margin-top:20px
+}
+
+.form-control{
+    width:250px;
+}
+
+.page{
+    margin-bottom: 40px
+}
+
+#span_register{
+    margin-left: 18px;
+    font-weight: bold
+}
+
+.row{
+    margin-bottom: 5px;
+}
+
+.btn_log{
+    width:70px;
+}
+
+
